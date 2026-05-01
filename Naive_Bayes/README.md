@@ -1,4 +1,4 @@
-# Spam Detection Project
+# Spam Detection Project:
 
 This project aims to build a spam detection model using the Multinomial Naive Bayes algorithm. The dataset used contains SMS messages labeled as either 'spam' or 'ham'.
 
